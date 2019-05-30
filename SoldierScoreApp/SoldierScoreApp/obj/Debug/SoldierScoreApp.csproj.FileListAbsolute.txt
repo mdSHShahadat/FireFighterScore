@@ -8,3 +8,13 @@ D:\Shahadat\Exam1\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.cspr
 D:\Shahadat\Exam1\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.csproj.CoreCompileInputs.cache
 D:\Shahadat\Exam1\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.exe
 D:\Shahadat\Exam1\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.pdb
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\bin\Debug\SoldierScoreApp.exe.config
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\bin\Debug\SoldierScoreApp.exe
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\bin\Debug\SoldierScoreApp.pdb
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.csprojAssemblyReference.cache
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.Properties.Resources.resources
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.SoldierScoreUi.resources
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.csproj.GenerateResource.cache
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.csproj.CoreCompileInputs.cache
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.exe
+D:\Shahadat\EX1\FireFighterScore\SoldierScoreApp\SoldierScoreApp\obj\Debug\SoldierScoreApp.pdb

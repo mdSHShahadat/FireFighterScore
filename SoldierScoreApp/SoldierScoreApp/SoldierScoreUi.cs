@@ -165,6 +165,11 @@ namespace SoldierScoreApp
             topTotalTextBox.Clear();
             try
             {
+                if (string.IsNullOrEmpty(searchTextBox.Text))
+                {
+                    MessageBox.Show("Search box is empty");
+                    return;
+                }
                 string message = "Soldier No. \tSoldier Name \tAverage Score \tTotal Score \n";
                 if (SoldierNoRadioButton.Checked)
                 {
